@@ -1,6 +1,1312 @@
-[
-  {
-    "title": "Wow, that was really cool",
-    "subtitle": "Dani - 2021"
-  }
-]
+{
+  "0": [
+    {
+      "id": 1,
+      "subtitle": "Doe jij dit al?",
+      "title": "Persoonlijk contact zoeken voordat je een negatief besluit stuurt. Dat voorkomt dat iemand wordt overvallen door het besluit."
+    },
+    {
+      "id": 6,
+      "subtitle": "Doe jij dit al?",
+      "title": "Afstemmen hoe iemand het liefst contact heeft. Dat maakt communicatie effectiever."
+    },
+    {
+      "id": 11,
+      "subtitle": "Doe jij dit al?",
+      "title": "Tijdens een gesprek checken of je de situatie goed hebt begrepen voordat je verder gaat. Zo voorkom je misverstanden."
+    },
+    {
+      "id": 16,
+      "subtitle": "Doe jij dit al?",
+      "title": "Tijdens een gesprek samenvatten wat de ander zegt voordat je reageert. Daarmee check je of je de ander goed begrijpt."
+    },
+    {
+      "id": 21,
+      "subtitle": "Doe jij dit al?",
+      "title": "Bij een verschil van inzicht eerst verkennen waar dat verschil vandaan komt. Dat voorkomt dat je te snel in standpunten blijft hangen."
+    },
+    {
+      "id": 26,
+      "subtitle": "Doe jij dit al?",
+      "title": "Je rechtstreekse nummer geven als dat kan. Dat maakt het voor mensen makkelijker om contact op te nemen."
+    },
+    {
+      "id": 31,
+      "subtitle": "Doe jij dit al?",
+      "title": "Uitleggen wat informatie betekent in plaats van die alleen te geven. Dat voorkomt dat iemand zelf moet uitzoeken wat dit concreet betekent."
+    },
+    {
+      "id": 36,
+      "subtitle": "Doe jij dit al?",
+      "title": "Actief samenwerking zoeken buiten je eigen team. Dat helpt om vastgelopen situaties verder te brengen."
+    },
+    {
+      "id": 41,
+      "subtitle": "Doe jij dit al?",
+      "title": "In een gesprek erkenning geven voor iemands situatie. Zo merkt iemand dat zijn verhaal gehoord wordt."
+    },
+    {
+      "id": 46,
+      "subtitle": "Doe jij dit al?",
+      "title": "Bewust door de ogen van de ander naar de situatie kijken. Dat voorkomt dat je te snel vanuit je eigen kader handelt."
+    },
+    {
+      "id": 51,
+      "subtitle": "Doe jij dit al?",
+      "title": "Doorvragen naar het belang achter een standpunt. Zo wordt duidelijk wat iemand nodig heeft."
+    },
+    {
+      "id": 56,
+      "subtitle": "Doe jij dit al?",
+      "title": "Kort na de aanvraag bellen en niet wachten tot het dossier compleet is. Zo wordt sneller duidelijk wat iemand nodig heeft."
+    },
+    {
+      "id": 61,
+      "subtitle": "Doe jij dit al?",
+      "title": "Brieven zo schrijven dat iemand meteen begrijpt wat hij moet doen of kan verwachten. Dat voorkomt veel vragen."
+    },
+    {
+      "id": 66,
+      "subtitle": "Doe jij dit al?",
+      "title": "Terugbellen of terugschrijven wanneer je dat hebt toegezegd. Zo voorkom je dat iemand moet gaan navragen."
+    },
+    {
+      "id": 71,
+      "subtitle": "Doe jij dit al?",
+      "title": "Bij een besluit bedenken wat iemand hier morgen van merkt. Dat helpt om de menselijke maat te houden. "
+    },
+    {
+      "id": 76,
+      "subtitle": "Doe jij dit al?",
+      "title": "Duidelijk zijn over hoe en wanneer je bereikbaar bent. Dan weet iemand waar die aan toe is."
+    },
+    {
+      "id": 81,
+      "subtitle": "Doe jij dit al?",
+      "title": "Uitleggen waarom je een belofte niet kunt nakomen. Dat voorkomt dat iemand zelf moet gaan navragen wat er aan de hand is."
+    },
+    {
+      "id": 86,
+      "subtitle": "Doe jij dit al?",
+      "title": "Vaktermen vermijden of meteen uitleggen. Zo hoeft iemand niet zelf uit te zoeken wat je bedoelt."
+    },
+    {
+      "id": 91,
+      "subtitle": "Doe jij dit al?",
+      "title": "Na een gesprek kort checken hoe iemand het gesprek heeft ervaren. Zo merk je wat wel en niet werkt in je aanpak."
+    },
+    {
+      "id": 96,
+      "subtitle": "Doe jij dit al?",
+      "title": "Aan het einde van elk contactmoment duidelijk maken wat de volgende stap is. Dan weet iemand waar hij aan toe is."
+    },
+    {
+      "id": 101,
+      "subtitle": "Doe jij dit al?",
+      "title": "Je uitleg afstemmen op wat iemand al weet en begrijpt. Dat voorkomt misverstanden en frustratie."
+    },
+    {
+      "id": 106,
+      "subtitle": "Doe jij dit al?",
+      "title": "Twijfels over een besluit eerst met een collega bespreken. Samen zie je sneller wat je zelf mist."
+    },
+    {
+      "id": 111,
+      "subtitle": "Doe jij dit al?",
+      "title": "Uit jezelf een update geven over de stand van zaken. Stilte zorgt er vaak voor dat iemand zelf gaat invullen wat er speelt."
+    },
+    {
+      "id": 116,
+      "subtitle": "Doe jij dit al?",
+      "title": "Signalen uit de praktijk vastleggen en delen. Dat helpt om te zien waar het steeds opnieuw misgaat."
+    },
+    {
+      "id": 121,
+      "subtitle": "Doe jij dit al?",
+      "title": "Na je uitleg vragen wat iemand ervan heeft begrepen. Zo voorkom je misverstanden."
+    },
+    {
+      "id": 126,
+      "subtitle": "Doe jij dit al?",
+      "title": "Je e-mails afsluiten met je naam in plaats van een algemene afzender. Dat maakt duidelijk wie aanspreekbaar is."
+    },
+    {
+      "id": 131,
+      "subtitle": "Doe jij dit al?",
+      "title": "Nagaan of je besluit past bij iemands situatie. Papier en praktijk zijn niet altijd hetzelfde."
+    },
+    {
+      "id": 136,
+      "subtitle": "Doe jij dit al?",
+      "title": "Bij stress nagaan wat iemand nog kan in plaats van te blijven doorvragen. Dat voorkomt dat je te veel vraagt op het verkeerde moment."
+    },
+    {
+      "id": 141,
+      "subtitle": "Doe jij dit al?",
+      "title": "Bellen als iets vastloopt of onduidelijk is. In een gesprek wordt sneller duidelijk wat er echt speelt."
+    },
+    {
+      "id": 146,
+      "subtitle": "Doe jij dit al?",
+      "title": "Expliciet maken wat je niet van iemand verwacht. Dat haalt soms meer spanning weg dan uitleggen wat wel moet."
+    },
+    {
+      "id": 151,
+      "subtitle": "Doe jij dit al?",
+      "title": "Binnen de wet zoeken naar wat wél kan. Soms is er meer mogelijk dan gedacht."
+    },
+    {
+      "id": 156,
+      "subtitle": "Doe jij dit al?",
+      "title": "Bij een ‘nee’ checken of die uit de wet volgt of uit gewoonte. Soms blijkt er toch ruimte te zijn."
+    },
+    {
+      "id": 161,
+      "subtitle": "Doe jij dit al?",
+      "title": "Bij heftige reacties benoemen dat iemand daar vast een reden voor heeft en daarnaar vragen. Zo ontstaat ruimte om te horen wat er speelt."
+    },
+    {
+      "id": 166,
+      "subtitle": "Doe jij dit al?",
+      "title": "Vastleggen welke stappen je hebt gezet en waarom je tot dit besluit bent gekomen. Zo is te volgen hoe het besluit tot stand kwam."
+    },
+    {
+      "id": 171,
+      "subtitle": "Doe jij dit al?",
+      "title": "Een brief of besluit nog één keer lezen alsof je de ontvanger bent. Dan zie je sneller wat onduidelijk blijft."
+    },
+    {
+      "id": 176,
+      "subtitle": "Doe jij dit al?",
+      "title": "Aan het begin van een gesprek duidelijk maken wat iemand van je kan verwachten. Dat voorkomt dat iemand rekent op iets wat niet kan."
+    },
+    {
+      "id": 181,
+      "subtitle": "Doe jij dit al?",
+      "title": "In een gesprek doorvragen op wat iemand zegt, ook als je denkt het al te begrijpen. Dat levert vaak meer inzicht op."
+    },
+    {
+      "id": 186,
+      "subtitle": "Doe jij dit al?",
+      "title": "Afspraken nakomen en terugkoppelen als iets anders loopt. Dat schept vertrouwen."
+    },
+    {
+      "id": 191,
+      "subtitle": "Doe jij dit al?",
+      "title": "Nagaan of je ‘nee’ zegt vanuit zekerheid of vanuit de bedoeling van de regel. Dat helpt om rechtvaardiger te handelen."
+    },
+    {
+      "id": 196,
+      "subtitle": "Doe jij dit al?",
+      "title": "Eerst luisteren naar het verhaal achter een dossier. Dan wordt vaak duidelijker wat iemand nodig heeft."
+    },
+    {
+      "id": 201,
+      "subtitle": "Doe jij dit al?",
+      "title": "Binnen een werkdag terugbellen als iemand een vraag stelt. Dat voorkomt dat iemand blijft wachten."
+    },
+    {
+      "id": 206,
+      "subtitle": "Doe jij dit al?",
+      "title": "Ook na een 'nee' meedenken over wat nog wel kan. Zo help je iemand verder."
+    },
+    {
+      "id": 211,
+      "subtitle": "Doe jij dit al?",
+      "title": "In een gesprek benoemen wat je aan emoties ziet. Dat helpt iemand zich gehoord te voelen."
+    },
+    {
+      "id": 216,
+      "subtitle": "Doe jij dit al?",
+      "title": "Uitleggen welke informatie je nodig hebt en waarom. Dan snapt iemand beter wat er van hem wordt gevraagd."
+    },
+    {
+      "id": 221,
+      "subtitle": "Doe jij dit al?",
+      "title": "In een gesprek benoemen wat je hoort in het verhaal van de ander. Zo merkt iemand dat je echt luistert."
+    },
+    {
+      "id": 226,
+      "subtitle": "Doe jij dit al?",
+      "title": "Met collega’s delen wat effectief was. Zo leer je van elkaar."
+    },
+    {
+      "id": 231,
+      "subtitle": "Doe jij dit al?",
+      "title": "Als iets niet kan, uitleggen wat er binnen de regels wél mogelijk is. Zo blijft iemand perspectief houden."
+    },
+    {
+      "id": 236,
+      "subtitle": "Doe jij dit al?",
+      "title": "Een andere route zoeken als regels vastlopen. Soms ligt de oplossing buiten de standaardaanpak."
+    },
+    {
+      "id": 241,
+      "subtitle": "Doe jij dit al?",
+      "title": "Een verwijt herformuleren naar een behoefte. Dat helpt om verder te komen."
+    },
+    {
+      "id": 246,
+      "subtitle": "Doe jij dit al?",
+      "title": "Na een gesprek afspraken kort vastleggen en delen met de ander. Dan weet iedereen waar hij aan toe is."
+    },
+    {
+      "id": 251,
+      "subtitle": "Doe jij dit al?",
+      "title": "In je werk ruimte geven aan twijfel. Dat helpt om zorgvuldiger te beslissen."
+    },
+    {
+      "id": 256,
+      "subtitle": "Doe jij dit al?",
+      "title": "Je afwegingen in een besluit zichtbaar maken. Dan snapt iemand beter hoe je tot je besluit kwam."
+    }
+  ],
+  "1": [
+    {
+      "id": 2,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Stel vandaag eerst een paar open vragen voordat je het juridische kader uitlegt."
+    },
+    {
+      "id": 7,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Leg vandaag een twijfel in je zaak expliciet voor aan een collega."
+    },
+    {
+      "id": 12,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Vraag vandaag wat deze situatie voor iemand betekent voordat je reageert."
+    },
+    {
+      "id": 17,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Leg vandaag in je eigen woorden uit wat het doel van de regeling is voordat je hem toepast."
+    },
+    {
+      "id": 22,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Stel vandaag je oordeel uit en luister eerst."
+    },
+    {
+      "id": 27,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Check vóór verzending of je in één zin kunt uitleggen waarom je dit besluit neemt."
+    },
+    {
+      "id": 32,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Sluit vandaag een gesprek af met de vraag wat voor de ander heeft geholpen."
+    },
+    {
+      "id": 37,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Vraag vandaag in een gesprek: “Wat betekent deze situatie voor u?”"
+    },
+    {
+      "id": 42,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Vraag vandaag een collega om kritisch mee te denken over een aanpak waar je zelf al uit bent."
+    },
+    {
+      "id": 47,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Vraag vandaag door tot duidelijk is wat iemand echt belangrijk vindt, niet alleen wat gevraagd wordt."
+    },
+    {
+      "id": 52,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Vraag vandaag: “Waar maakt u zich het meest zorgen over?”"
+    },
+    {
+      "id": 57,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Leg vandaag een casus voor aan een collega die er anders naar kijkt dan jij."
+    },
+    {
+      "id": 62,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Laat vandaag eens bewust een stilte vallen in een gesprek. "
+    },
+    {
+      "id": 67,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Bel vandaag eerst voordat je iemand een e-mail stuurt."
+    },
+    {
+      "id": 72,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Vraag vandaag of je besluit is begrepen en wat het voor iemand betekent."
+    },
+    {
+      "id": 77,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Benoem vandaag expliciet wat je waardeert in wat iemand deelt."
+    },
+    {
+      "id": 82,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Benoem vandaag wat wél kan, ook als iemand iets vraagt dat niet kan."
+    },
+    {
+      "id": 87,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Leg vandaag een lopende zaak voor aan een collega voordat je een besluit neemt."
+    },
+    {
+      "id": 92,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Benoem vandaag in je dossier wat je niet hebt meegewogen en waarom."
+    },
+    {
+      "id": 97,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Stel vandaag één extra vraag naar wat er achter een standpunt zit."
+    },
+    {
+      "id": 102,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Zeg je vandaag 'nee', denk dan mee over wat nog wel kan."
+    },
+    {
+      "id": 107,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Maak vandaag zichtbaar wat binnen de regels mogelijk is."
+    },
+    {
+      "id": 112,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Noteer vandaag na een gesprek één ding dat je de volgende keer anders wilt aanpakken."
+    },
+    {
+      "id": 117,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Vraag vandaag in een gesprek wat iemand het meest dwarszit."
+    },
+    {
+      "id": 122,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Ga vandaag naar de plek waar het probleem speelt. Op locatie zie je dingen die je op je scherm mist."
+    },
+    {
+      "id": 127,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Stel je oordeel vandaag uit tot je de persoon hebt gesproken om wie het gaat."
+    },
+    {
+      "id": 132,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Bel vandaag eerst voordat je een formele brief stuurt."
+    },
+    {
+      "id": 137,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Stel vandaag eerst open vragen voordat je oplossingen aandraagt."
+    },
+    {
+      "id": 142,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Verwijs in je volgende gesprek naar iets persoonlijks dat iemand eerder heeft verteld."
+    },
+    {
+      "id": 147,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Bespreek vandaag één recente zaak met een collega vanuit de vraag wat jij anders had kunnen doen."
+    },
+    {
+      "id": 152,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Benoem vandaag hoe je jouw besluit zorgvuldig én passend maakte."
+    },
+    {
+      "id": 157,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Begin vandaag een gesprek niet met je uitleg, maar met een vraag."
+    },
+    {
+      "id": 162,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Check vandaag in een lopende zaak of je te snel uitgaat van wat niet kan."
+    },
+    {
+      "id": 167,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Betrek vandaag een collega van een andere afdeling bij een zaak waar je dat normaal niet zou doen."
+    },
+    {
+      "id": 172,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Vraag vandaag:“Waar bent u mee geholpen?”"
+    },
+    {
+      "id": 177,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Stel vandaag nog één extra vraag, ook als je denkt het al te weten."
+    },
+    {
+      "id": 182,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Schrijf vandaag eerst de conclusie op en pas daarna de onderbouwing."
+    },
+    {
+      "id": 187,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Vraag vandaag: “Is er nog iets wat u belangrijk vindt om te vertellen?”"
+    },
+    {
+      "id": 192,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Informeer vandaag actief als er vertraging ontstaat. "
+    },
+    {
+      "id": 197,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Leg vandaag een juridisch advies zo uit dat iemand zonder voorkennis het begrijpt."
+    },
+    {
+      "id": 202,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Vraag vandaag: “Wat is voor u op dit moment het belangrijkst?”"
+    },
+    {
+      "id": 207,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Benoem vandaag in een zaak waar het schuurt tussen het proces en wat iemand nodig heeft."
+    },
+    {
+      "id": 212,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Vat vandaag in elk gesprek kort samen wat je hebt gehoord."
+    },
+    {
+      "id": 217,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Stel vandaag in een gesprek expliciet een vraag over de impact op iemands leven."
+    },
+    {
+      "id": 222,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Vraag vandaag bij een ‘nee’ expliciet: wat zou er nodig zijn om hier toch ‘ja’ van te maken?"
+    },
+    {
+      "id": 227,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Wees vandaag bewust open, eerlijk en nieuwsgierig in je gesprek."
+    },
+    {
+      "id": 232,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Maak vandaag één stap in een zaak expliciet die je normaal impliciet laat."
+    },
+    {
+      "id": 237,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Kijk vandaag verder dan de aanvraag en vraag wat iemand echt nodig heeft."
+    },
+    {
+      "id": 242,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Vraag vandaag door tot duidelijk is wat iemand bedoelt."
+    },
+    {
+      "id": 247,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Leg vandaag uit waarom iets niet kan. Zoek daarna samen naar wat wel kan."
+    },
+    {
+      "id": 252,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Vraag vandaag: “Heeft u het gevoel dat ik u goed heb begrepen?”"
+    },
+    {
+      "id": 257,
+      "subtitle": "Probeer dit vandaag",
+      "title": "Vraag vandaag wat iemand verwacht van het contact met jou."
+    }
+  ],
+  "2": [
+    {
+      "id": 3,
+      "subtitle": "Inzicht",
+      "title": "Hoe groter je invloed, hoe zorgvuldiger je moet handelen."
+    },
+    {
+      "id": 8,
+      "subtitle": "Inzicht",
+      "title": "Dienstbaarheid is geen trucje, maar een professionele grondhouding."
+    },
+    {
+      "id": 13,
+      "subtitle": "Inzicht",
+      "title": "Transparantie maakt afschermen en verdedigen minder nodig."
+    },
+    {
+      "id": 18,
+      "subtitle": "Inzicht",
+      "title": "Wie klaagt, neemt de moeite om te laten weten dat iets niet goed gaat."
+    },
+    {
+      "id": 23,
+      "subtitle": "Inzicht",
+      "title": "Uitleg landt vaak beter als emotie eerst ruimte krijgt."
+    },
+    {
+      "id": 28,
+      "subtitle": "Inzicht",
+      "title": "Een bezwaar of klacht laat zien waar iets niet werkt en waar nog te leren valt."
+    },
+    {
+      "id": 33,
+      "subtitle": "Inzicht",
+      "title": "Dienstbaarheid vraagt om handelen, ook als het makkelijker is om af te wachten."
+    },
+    {
+      "id": 38,
+      "subtitle": "Inzicht",
+      "title": "Dienstbaar werken betekent afwegen wat goed is voor iemand, zonder het algemeen belang uit het oog te verliezen."
+    },
+    {
+      "id": 43,
+      "subtitle": "Inzicht",
+      "title": "Door stiltes te laten vallen, ontstaat ruimte voor reflectie en antwoord."
+    },
+    {
+      "id": 48,
+      "subtitle": "Inzicht",
+      "title": "Juridische conflicten veroorzaken vaak stress en raken de kwaliteit van leven."
+    },
+    {
+      "id": 53,
+      "subtitle": "Inzicht",
+      "title": "Maatwerk vraagt om expliciete onderbouwing, geen stille afwijking."
+    },
+    {
+      "id": 58,
+      "subtitle": "Inzicht",
+      "title": "Recht doen vraagt om uitleggen én luisteren."
+    },
+    {
+      "id": 63,
+      "subtitle": "Inzicht",
+      "title": "Dienstbaar werken betekent dat het gedrag van de ander niet bepaalt hoe er gehandeld wordt."
+    },
+    {
+      "id": 68,
+      "subtitle": "Inzicht",
+      "title": "Weerstand gaat zelden over wat iemand letterlijk zegt."
+    },
+    {
+      "id": 73,
+      "subtitle": "Inzicht",
+      "title": "Achter een klacht of bezwaar zit vaak een hulpvraag."
+    },
+    {
+      "id": 78,
+      "subtitle": "Inzicht",
+      "title": "Dienstbaar werken betekent helpen zonder de regie van iemand over te nemen."
+    },
+    {
+      "id": 83,
+      "subtitle": "Inzicht",
+      "title": "Professioneel handelen vraagt om reflectie, niet om automatisme."
+    },
+    {
+      "id": 88,
+      "subtitle": "Inzicht",
+      "title": "Onzekerheid groeit wanneer iemand moet wachten zonder te weten waarom."
+    },
+    {
+      "id": 93,
+      "subtitle": "Inzicht",
+      "title": "Standaardisatie is efficiënt, maar niet altijd rechtvaardig."
+    },
+    {
+      "id": 98,
+      "subtitle": "Inzicht",
+      "title": "De overheid is er voor de burger. Niet andersom."
+    },
+    {
+      "id": 103,
+      "subtitle": "Inzicht",
+      "title": "Onvolledige informatie stuurt vaak het oordeel."
+    },
+    {
+      "id": 108,
+      "subtitle": "Inzicht",
+      "title": "Een afwijzing vlak voor het weekend versturen, betekent dat iemand het hele weekend met het bericht zit."
+    },
+    {
+      "id": 113,
+      "subtitle": "Inzicht",
+      "title": "Rechtmatigheid en rechtvaardigheid vallen niet vanzelf samen."
+    },
+    {
+      "id": 118,
+      "subtitle": "Inzicht",
+      "title": "Binnen het kader is vaak meer mogelijk dan op het eerste gezicht lijkt."
+    },
+    {
+      "id": 123,
+      "subtitle": "Inzicht",
+      "title": "Een verwijt is vaak een slecht verpakte behoefte."
+    },
+    {
+      "id": 128,
+      "subtitle": "Inzicht",
+      "title": "Snelheid aan het begin leidt later vaak tot meer werk."
+    },
+    {
+      "id": 133,
+      "subtitle": "Inzicht",
+      "title": "Interne logica maakt niet automatisch dat iets voor buitenstaanders begrijpelijk is."
+    },
+    {
+      "id": 138,
+      "subtitle": "Inzicht",
+      "title": "Dienstbaarheid betekent niet dat alles wat iemand vraagt ook kan."
+    },
+    {
+      "id": 143,
+      "subtitle": "Inzicht",
+      "title": "Wat in de systeemwereld klopt, kan in de leefwereld toch onrechtvaardig voelen."
+    },
+    {
+      "id": 148,
+      "subtitle": "Inzicht",
+      "title": "Snelheid zonder zorgvuldigheid gaat ten koste van dienstbaarheid."
+    },
+    {
+      "id": 153,
+      "subtitle": "Inzicht",
+      "title": "Onduidelijkheid creëert verwachtingen."
+    },
+    {
+      "id": 158,
+      "subtitle": "Inzicht",
+      "title": "Het dossier begrijpen is iets anders dan de situatie begrijpen."
+    },
+    {
+      "id": 163,
+      "subtitle": "Inzicht",
+      "title": "Achter elk dossier zit een verhaal."
+    },
+    {
+      "id": 168,
+      "subtitle": "Inzicht",
+      "title": "Achter een standpunt liggen vaak belangen, zorgen of behoeften die nog niet zijn uitgesproken."
+    },
+    {
+      "id": 173,
+      "subtitle": "Inzicht",
+      "title": "Onuitgesproken verwachtingen leiden later vaak tot teleurstelling."
+    },
+    {
+      "id": 178,
+      "subtitle": "Inzicht",
+      "title": "Fouten gebeuren; wat je daarna doet telt."
+    },
+    {
+      "id": 183,
+      "subtitle": "Inzicht",
+      "title": "Gelijke behandeling van ongelijke gevallen kan net zo onrechtvaardig zijn, als ongelijke behandeling van gelijke gevallen."
+    },
+    {
+      "id": 188,
+      "subtitle": "Inzicht",
+      "title": "Hoe het proces verloopt, bepaalt mede hoe rechtvaardig een besluit voelt."
+    },
+    {
+      "id": 193,
+      "subtitle": "Inzicht",
+      "title": "Een standaardbrief kan juridisch correct zijn en toch afstand creëren."
+    },
+    {
+      "id": 198,
+      "subtitle": "Inzicht",
+      "title": "Wie als ‘lastige burger’ wordt gezien, loopt vaak vast in regels en loketten."
+    },
+    {
+      "id": 203,
+      "subtitle": "Inzicht",
+      "title": "De wet is een middel, geen doel op zichzelf."
+    },
+    {
+      "id": 208,
+      "subtitle": "Inzicht",
+      "title": "Routine maakt dat je minder ziet wat er gebeurt."
+    },
+    {
+      "id": 213,
+      "subtitle": "Inzicht",
+      "title": "Wat voor de organisatie logisch is, is voor een ander niet altijd te volgen."
+    },
+    {
+      "id": 218,
+      "subtitle": "Inzicht",
+      "title": "Dienstbaar werken betekent ook grenzen stellen en handhaven."
+    },
+    {
+      "id": 223,
+      "subtitle": "Inzicht",
+      "title": "Zonder contact worden problemen vaak groter dan nodig."
+    },
+    {
+      "id": 228,
+      "subtitle": "Inzicht",
+      "title": "Elke ontmoeting draagt bij aan vertrouwen in de overheid, positief of negatief."
+    },
+    {
+      "id": 233,
+      "subtitle": "Inzicht",
+      "title": "Uitleg landt pas als emoties eerst worden erkend."
+    },
+    {
+      "id": 238,
+      "subtitle": "Inzicht",
+      "title": "Een fout erkennen is sterker dan een fout blijven verdedigen."
+    },
+    {
+      "id": 243,
+      "subtitle": "Inzicht",
+      "title": "Tijdsdruk vergroot de kans dat je terugvalt op routine. Juist dan vraagt dienstbaarheid om bewust handelen."
+    },
+    {
+      "id": 248,
+      "subtitle": "Inzicht",
+      "title": "Hoe beter je luistert, hoe beter je besluit wordt."
+    },
+    {
+      "id": 253,
+      "subtitle": "Inzicht",
+      "title": "Een motivering is pas volledig als die begrijpelijk is voor wie hem leest."
+    },
+    {
+      "id": 258,
+      "subtitle": "Inzicht",
+      "title": "Interne eenvoud betekent niet dat het voor een ander simpel is."
+    }
+  ],
+  "3": [
+    {
+      "id": 4,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Wanneer kiezen we niet voor dienstbaarheid en waarom?"
+    },
+    {
+      "id": 9,
+      "subtitle": "Bespreek dit met je team",
+      "title": "In welke situaties staan we ongemerkt tegenover iemand in plaats van naast iemand, en hoe zie je dat terug in je gedrag?"
+    },
+    {
+      "id": 14,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Wanneer volgen wij de procedure terwijl we weten dat die niet helpt?"
+    },
+    {
+      "id": 19,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Hoe controleren wij of onze motivering begrijpelijk is voor burgers, en wanneer doen we dat?"
+    },
+    {
+      "id": 24,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Wanneer zien wij een mens en wanneer vooral een dossier, en waar merk je dat aan?"
+    },
+    {
+      "id": 29,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Wat is er nodig om van horen naar echt luisteren te gaan, en waar lukt dat nu nog niet?"
+    },
+    {
+      "id": 34,
+      "subtitle": "Bespreek dit met je team",
+      "title": "In welke situaties blijven we binnen ons eigen domein terwijl samenwerking nodig is, en waar zien we dat terug?"
+    },
+    {
+      "id": 39,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Welke zin in onze standaardbrieven begrijpen burgers het minst?"
+    },
+    {
+      "id": 44,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Welke stap in ons proces zou de meeste rust opleveren als we die anders organiseren?"
+    },
+    {
+      "id": 49,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Op welke momenten verliezen we het perspectief van de burger uit het oog, en waaraan merken we dat?"
+    },
+    {
+      "id": 54,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Wat doen we nu waardoor we te snel reageren zonder eerst goed te begrijpen wat er speelt?"
+    },
+    {
+      "id": 59,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Hoe spreken wij ons uit als beleid negatieve gevolgen heeft voor mensen?"
+    },
+    {
+      "id": 64,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Hoe zorgen we dat we eerder samenwerken, in plaats van pas als het misgaat?"
+    },
+    {
+      "id": 69,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Welke signalen van burgers zien we wel, maar doen we nu nog te weinig mee?"
+    },
+    {
+      "id": 74,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Waar zit het verschil tussen formeel correct handelen en iemand zich serieus laten voelen?"
+    },
+    {
+      "id": 79,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Wanneer volgen wij het proces meer dan het doel dat het dient?"
+    },
+    {
+      "id": 84,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Hoe zorgen we dat besluiten aansluiten bij wat iemand nodig heeft?"
+    },
+    {
+      "id": 89,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Wanneer is meebewegen professioneel, en wanneer niet meer?"
+    },
+    {
+      "id": 94,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Wanneer geven we informatie zonder dat duidelijk is wat iemand ermee kan?"
+    },
+    {
+      "id": 99,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Waar zitten de grootste risico’s op fouten in onze besluitvorming?"
+    },
+    {
+      "id": 104,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Wanneer voelt ons handelen voor ons logisch, maar voor de burger onbegrijpelijk of inconsistent?"
+    },
+    {
+      "id": 109,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Wat verandert er in ons gedrag wanneer de druk oploopt?"
+    },
+    {
+      "id": 114,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Wanneer werken we langs elkaar heen zonder dat we het doorhebben, en wat betekent dat voor de burger?"
+    },
+    {
+      "id": 119,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Welke keuzes maken wij anders als niemand ons werk controleert?"
+    },
+    {
+      "id": 124,
+      "subtitle": "Bespreek dit met je team",
+      "title": "In welke situaties volgen we het systeem terwijl dat niet helpt voor de burger?"
+    },
+    {
+      "id": 129,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Wanneer is vriendelijkheid genoeg, en wanneer vraagt dienstbaarheid meer?"
+    },
+    {
+      "id": 134,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Wanneer helpt samenwerking ons om iemand beter te helpen, en wanneer vertraagt het juist de oplossing?"
+    },
+    {
+      "id": 139,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Wanneer lossen wij een probleem niet op, maar verplaatsen we het?"
+    },
+    {
+      "id": 144,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Welke fouten blijven we maken zonder dat we ze oplossen?"
+    },
+    {
+      "id": 149,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Hoe weeg je rechtszekerheid voor velen af tegen bestaanszekerheid van één persoon?"
+    },
+    {
+      "id": 154,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Bij welke stappen in het proces ontstaat spanning als de termijn knelt?"
+    },
+    {
+      "id": 159,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Waar merken we dat dienstbaar handelen niet lukt, en wat gebeurt er dan?"
+    },
+    {
+      "id": 164,
+      "subtitle": "Bespreek dit met je team",
+      "title": "In welke situaties nemen we aan dat iemand het begrijpt zonder dat te checken?"
+    },
+    {
+      "id": 169,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Waar houden wij een systeem in stand dat niet werkt?"
+    },
+    {
+      "id": 174,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Wanneer onderschatten wij de invloed van onze besluiten?"
+    },
+    {
+      "id": 179,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Op welke momenten zijn we voor de burger niet transparant over wat er gebeurt en waarom?"
+    },
+    {
+      "id": 184,
+      "subtitle": "Bespreek dit met je team",
+      "title": "In welke gevallen kijken we vooral juridisch, en te weinig naar wat iemand echt nodig heeft?"
+    },
+    {
+      "id": 189,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Wanneer denk je mee en wanneer neem je het probleem van iemand over?"
+    },
+    {
+      "id": 194,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Wanneer denken we dat er geen ruimte is, zonder die echt te onderzoeken?"
+    },
+    {
+      "id": 199,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Hoe voorkom je dat meedenken verwachtingen wekt die je niet kunt waarmaken?"
+    },
+    {
+      "id": 204,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Wanneer zijn we bang dat erkenning verwachtingen schept, en wat doet dat met ons gedrag?"
+    },
+    {
+      "id": 209,
+      "subtitle": "Bespreek dit met je team",
+      "title": "In welke situaties hebben wij echt oog voor de menselijke maat en wanneer niet?"
+    },
+    {
+      "id": 214,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Wanneer is een besluit volgens de wet juist, maar pakt het niet eerlijk uit?"
+    },
+    {
+      "id": 219,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Waar in ons proces verliezen we de meeste tijd zonder dat de kwaliteit beter wordt?"
+    },
+    {
+      "id": 224,
+      "subtitle": "Bespreek dit met je team",
+      "title": "In welke gevallen maakt onze uitleg het ingewikkelder in plaats van eenvoudiger?"
+    },
+    {
+      "id": 229,
+      "subtitle": "Bespreek dit met je team",
+      "title": "In welke situaties vinden we emotie lastig en wat doet dat met hoe we reageren?"
+    },
+    {
+      "id": 234,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Wanneer maken we het contact ingewikkelder dan nodig is voor de inwoner?"
+    },
+    {
+      "id": 239,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Wanneer verliezen onze routines de mens uit het oog?"
+    },
+    {
+      "id": 244,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Waar gebruiken we taal die voor ons logisch is, maar voor burgers niet?"
+    },
+    {
+      "id": 249,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Wanneer maakt iets eenvoudigs in ons werk echt verschil voor iemand?"
+    },
+    {
+      "id": 254,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Waar laten we kansen liggen om verwachtingen vooraf helder te maken?"
+    },
+    {
+      "id": 259,
+      "subtitle": "Bespreek dit met je team",
+      "title": "Waar blijven we hangen in wat niet kan, terwijl we niet onderzoeken wat wel mogelijk is?"
+    }
+  ],
+  "4": [
+    {
+      "id": 5,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Kies ik voor een snelle afhandeling van een dossier, of voor een duurzame oplossing van het probleem?"
+    },
+    {
+      "id": 10,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Wat kan ik vanuit mijn rol doen wat nu blijft liggen, terwijl het wel zou helpen?"
+    },
+    {
+      "id": 15,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Wanneer behandel ik iemand als dossier, terwijl ik weet dat er een mens achter zit?"
+    },
+    {
+      "id": 20,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Wanneer volg ik het proces en wanneer wijk ik af omdat dat nodig is?"
+    },
+    {
+      "id": 25,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Is wat hier nodig is echt onmogelijk, of alleen onwennig?"
+    },
+    {
+      "id": 30,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Kies ik voor formele afstand, of voor begrijpelijke nabijheid?"
+    },
+    {
+      "id": 35,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Wat kan ik doen om te voorkomen dat dit escaleert?"
+    },
+    {
+      "id": 40,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Welke aanname heb ik nog niet gecontroleerd?"
+    },
+    {
+      "id": 45,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Wanneer wek ik onbedoeld de indruk dat iemand niet serieus genomen wordt?"
+    },
+    {
+      "id": 50,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Wat heb ik in deze situatie nodig om rechtvaardig te handelen?"
+    },
+    {
+      "id": 55,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Gebruik ik taal om te verhelderen, of om afstand te houden?"
+    },
+    {
+      "id": 60,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Durf ik te zeggen: ik weet het nog niet, maar ik zoek het uit?"
+    },
+    {
+      "id": 65,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Benoem ik emoties die ik zie, of ga ik eraan voorbij?"
+    },
+    {
+      "id": 70,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Wat doet mijn houding met hoe iemand zich voelt in dit contact?"
+    },
+    {
+      "id": 75,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Wanneer zeg ik: zo doen we dat hier nu eenmaal?"
+    },
+    {
+      "id": 80,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Gebruik ik precedentwerking als argument, of als excuus om niet te zoeken naar wat wél kan?"
+    },
+    {
+      "id": 85,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Blijf ik stil uit angst voor een fout, of breng ik een andere oplossing in?"
+    },
+    {
+      "id": 90,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Welke macht heb ik hier die ik niet meteen zie?"
+    },
+    {
+      "id": 95,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Wanneer ben ik vooral bezig met het proces, terwijl iemand een oplossing zoekt?"
+    },
+    {
+      "id": 100,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Ga ik tegenover iemand staan, of naast iemand?"
+    },
+    {
+      "id": 105,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Zou iemand zich gelijkwaardig voelen in dit contact met mij?"
+    },
+    {
+      "id": 110,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Kies ik hier voor snelheid, terwijl zorgvuldigheid nodig is?"
+    },
+    {
+      "id": 115,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Gebruik ik een standaardbrief waar een persoonlijke uitleg nodig is?"
+    },
+    {
+      "id": 120,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Kies ik voor controle of voor vertrouwen?"
+    },
+    {
+      "id": 125,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Hoe zou ik deze brief lezen als hij aan mij was gericht?"
+    },
+    {
+      "id": 130,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Geef ik voorrang aan de letter van de wet, of aan de bedoeling erachter?"
+    },
+    {
+      "id": 135,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Wat gebeurt er als ik hier niets zeg?"
+    },
+    {
+      "id": 140,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Verschuil ik mij achter vaste jurisprudentie zonder zelf opnieuw te wegen?"
+    },
+    {
+      "id": 145,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Kijk ik verder dan mijn eigen wettelijke hokje?"
+    },
+    {
+      "id": 150,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Wanneer ben ik op mijn best in hoe ik iemand help?"
+    },
+    {
+      "id": 155,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Wanneer geef ik iemand niet het voordeel van de twijfel?"
+    },
+    {
+      "id": 160,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Kan ik uitleggen op welke grondslag mijn besluit is gebaseerd?"
+    },
+    {
+      "id": 165,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Waardoor weet iemand dat ik hem serieus neem?"
+    },
+    {
+      "id": 170,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "In welke situatie vind ik het lastig om dienstbaar te handelen?"
+    },
+    {
+      "id": 175,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Durf ik ruimte te zoeken waar regels strak lijken te zijn?"
+    },
+    {
+      "id": 180,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Draagt wat ik vandaag doe bij aan rechtvaardige uitkomsten voor mensen?"
+    },
+    {
+      "id": 185,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Wanneer raak ik afgestompt voor de impact van mijn besluiten?"
+    },
+    {
+      "id": 190,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Doe ik hier wat mijn rol vraagt, of wat ik gewend ben te doen?"
+    },
+    {
+      "id": 195,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Wat zou ik van de overheid verwachten als ik in deze situatie zat?"
+    },
+    {
+      "id": 200,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Welke zin in mijn besluit is het moeilijkst te begrijpen?"
+    },
+    {
+      "id": 205,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Hoe bereikbaar ben ik echt voor vragen over mijn besluit?"
+    },
+    {
+      "id": 210,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Sta ik stil bij wat mijn besluit voor iemand betekent?"
+    },
+    {
+      "id": 215,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Wat laat deze situatie zien over mijn manier van werken?"
+    },
+    {
+      "id": 220,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Is voor iemand te volgen waarom ik dit besluit neem?"
+    },
+    {
+      "id": 225,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Reageer ik nu vooral op woorden, of ook op de emotie erachter?"
+    },
+    {
+      "id": 230,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Wat is nog onduidelijk in mijn uitleg voor de ander?"
+    },
+    {
+      "id": 235,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Kijk ik bij onvrede eerst wat er speelt of ga ik meteen in de juridische stand?"
+    },
+    {
+      "id": 240,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Hoe zorg ik dat een besluit niet als een verrassing komt?"
+    },
+    {
+      "id": 245,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Wat verandert er in mijn contact als de tijdsdruk oploopt?"
+    },
+    {
+      "id": 250,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Gebruik ik jargon als schild?"
+    },
+    {
+      "id": 255,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Heb ik echt geluisterd, of alleen gewacht om te spreken?"
+    },
+    {
+      "id": 260,
+      "subtitle": "Vraag jezelf eens af",
+      "title": "Waar baseer ik mijn beeld van deze situatie eigenlijk op?"
+    }
+  ]
+}
